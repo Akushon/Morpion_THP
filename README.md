@@ -8,6 +8,8 @@ Merci de faire une requète de pull si vous corrigez des choses, je suis open :D
 
 ## Installation
 
-Normalement il y à juste à lancer:
+Normalement il y a juste à lancer:
 
-'''ruby app.rb'''
+```bash
+ruby app.rb
+```
