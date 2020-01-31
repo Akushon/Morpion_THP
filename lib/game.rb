@@ -43,7 +43,6 @@ class Game
       board.board_case_choosed(@choice.to_s.upcase)
       system("clear") #vide le terminal
       board.board_display
-      board.test_of_winning
       if board.test_of_winning == "2"
         board.board_display
         player2.win_point #ajout de point + affichage des totaux
