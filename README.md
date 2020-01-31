@@ -13,3 +13,7 @@ Normalement il y a juste à lancer:
 ```bash
 ruby app.rb
 ```
+
+##How to play
+
+Tout est expliqué quand tu lance le jeu !
